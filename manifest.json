@@ -1,0 +1,14 @@
+{
+    "name": "CopyTitleAndUrl",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "This Chrome Extension is ClickCopy SiteTitle and URL",
+    "browser_action": {
+        "default_icon": "images/iconC.png",
+        "default_title": "CopyTitleAndUrl",
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
